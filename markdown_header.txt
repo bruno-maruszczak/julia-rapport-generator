@@ -1,0 +1,12 @@
+% [SPRAWOZDANIE] - Teoria Sterowania - ćw. nr 1 - Maruszczak
+<header class="rapport-header">
+<img width="120" height="120" class="logo" alt="logotyp Politechniki Poznańskiej" src="./put_logo.png">
+<p class="faculty">Wydział Robotyki, Automatyki i Elektrotechniki</p>
+<div class="authors">
+<p>Bruno Maruszczak</p>
+</div>
+<p class="date">6-11-2022</p>
+<p class="course">Teoria Sterowania</p>
+<p class="number">Ćwiczenie nr 1</p>
+<p class="topic">Modelowanie układów dynamicznych</p>
+</header>
